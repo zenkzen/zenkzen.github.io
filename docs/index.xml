@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zenkzen的博客</title>
+    <link>https://www.flysnow.org/</link>
+    <description>Recent content on Zenkzen的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 13 Dec 2019 21:00:00 +0800</lastBuildDate><atom:link href="https://www.flysnow.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>https://www.flysnow.org/about/</link>
+      <pubDate>Mon, 22 Aug 2022 23:13:27 +0000</pubDate>
+      
+      <guid>https://www.flysnow.org/about/</guid>
+      <description>作者github</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://www.flysnow.org/posts/my-first-post/</link>
+      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
+      
+      <guid>https://www.flysnow.org/posts/my-first-post/</guid>
+      <description>Hello This is a demo. 参考 https://zhuanlan.zhihu.com/p/37752930 https://gohugo.io/getting-started/quick-start https://github.com/flysnow-org/maupassant-hugo</description>
+    </item>
+    
+    <item>
+      <title>归档</title>
+      <link>https://www.flysnow.org/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.flysnow.org/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>搜索</title>
+      <link>https://www.flysnow.org/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.flysnow.org/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Zenkzen的博客</title>
+    <link>https://www.flysnow.org/categories/Test/</link>
+    <description>Recent content in Test on Zenkzen的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 13 Dec 2019 21:00:00 +0800</lastBuildDate><atom:link href="https://www.flysnow.org/categories/Test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://www.flysnow.org/posts/my-first-post/</link>
+      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
+      
+      <guid>https://www.flysnow.org/posts/my-first-post/</guid>
+      <description>Hello This is a demo. 参考 https://zhuanlan.zhihu.com/p/37752930 https://gohugo.io/getting-started/quick-start https://github.com/flysnow-org/maupassant-hugo</description>
+    </item>
+    
+  </channel>
+</rss>
